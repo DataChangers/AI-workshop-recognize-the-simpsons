@@ -1,5 +1,6 @@
 # AI Workshop: Recognize The Simpsons
-Create a model to recognize the main characters of The Simpsons
+Create a model to recognize the main characters of The Simpsons with Microsoft Custom Vision. This repo is part of <a rel="noreferrer noopener" aria-label="DataChangers Blog  (opens in a new tab)" href="https://www.datachangers.com/ai-workshop-recognize-the-simpsons/" target="_blank">this blog</a> on DataChangers.
+
 <!-- wp:heading {"level":1} -->
 <h1>Build a model to recognize The Simpsons</h1>
 <!-- /wp:heading -->
@@ -33,7 +34,7 @@ Create a model to recognize the main characters of The Simpsons
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Give your project a name</li><li>Give your project a description</li><li>Select a resource. If you want to create a new you, simply click on "create new" and follow the steps (see screenshots below)</li><li>Select "Classification" as we want the model to put the images in different "classes", or characters of The Simpsons in our case</li><li>Select "Multiclass "Single tag per image"): we have images with only one character on it</li><li>Select "Retail (compact)"</li><li>Select "Basic platforms)</li></ul>
+<ul><li>Give your project a name</li><li>Give your project a description</li><li>Select a resource. If you want to create a new you, simply click on "create new" and follow the steps (see screenshots below)</li><li>Select "Classification" as we want the model to put the images in different "classes", or characters of The Simpsons in our case</li><li>Select "Multiclass "Single tag per image": we have images with only one character on it</li><li>Select "Retail (compact)"</li><li>Select "Basic platforms"</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -61,7 +62,7 @@ Create a model to recognize the main characters of The Simpsons
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>First, click on "Add images"</p>
+<p>First, click on the blue button "Add images"</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":15089} -->
@@ -77,7 +78,7 @@ Create a model to recognize the main characters of The Simpsons
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Give the images the tag "Bart Simpson" so the model can learn how to identify images of Bart Simpson.</p>
+<p>Give the images the tag "Bart Simpson", so the model can learn how to identify images of Bart Simpson.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":15091} -->
@@ -85,7 +86,7 @@ Create a model to recognize the main characters of The Simpsons
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Please repeat this for the other characters of The Simpsons as well. You can click on "Add images" from the top menu to add more images.</p>
+<p>Please repeat this for the other characters from The Simpsons as well. You can click on "Add images" from the top menu to add more images.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":15092} -->
@@ -93,7 +94,7 @@ Create a model to recognize the main characters of The Simpsons
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Now you have done your preparation and you are ready to train the model to recognize The Simpsons. Note: of course the model will only recognize the characters you entered...so there is room for improvement and you can add more characters to make the model more complete.</p>
+<p>Now you have done your preparation and you are ready to train the model to recognize the main characters of The Simpsons. Note: of course the model will only recognize the characters you entered...so there is room for improvement and you can add more characters to make the model more complete.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
