@@ -153,6 +153,10 @@ Create a model to recognize the main characters of The Simpsons with Microsoft C
 <figure class="wp-block-image"><img src="https://www.datachangers.com/wp-content/uploads/2020/10/afbeelding-14-1024x620.png" alt="Recognize The Simpsons: the result!" class="wp-image-15100"/></figure>
 <!-- /wp:image -->
 
+## Bonus question
+
+As said, this model can only recognize charactars from the Simpsons where it has been trained for. Let's see if you can find images of a new character, and retrain the model. Make sure you check the license of the images you use...
+
 <!-- wp:heading -->
 <h2>Further exploring AI</h2>
 <!-- /wp:heading -->
